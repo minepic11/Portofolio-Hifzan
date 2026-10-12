@@ -151,7 +151,6 @@ export default function ModelArtwork({ artwork, active, onActivate, onDeactivate
           <button ref={activateRef} type="button" className="model-open" onClick={activate}>
             Lihat model 3D<span className="sr-only"> {label}</span>
           </button>
-          <a href={artwork.modelSrc} download={artwork.fileName}>Unduh GLB<span className="sr-only"> {label}</span></a>
         </div>
       )}
     </div>

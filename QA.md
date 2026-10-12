@@ -10,7 +10,7 @@ Bukti terbaru: [docs/model-checks.json](docs/model-checks.json). Renderer memaka
 - PASS: kamera menargetkan pusat geometri dan delapan sudut bounding box berada di dalam frustum pada framing awal.
 - PASS: keempat model mendukung drag mouse, wheel zoom, Putar kiri/kanan, Perbesar/Perkecil, Reset tampilan, dan Tutup viewer.
 - PASS: keyboard panah, +/−, R, dan Escape diuji; penutupan memulihkan fokus ke tombol Lihat model 3D.
-- PASS: Unduh GLB menghasilkan nama file yang benar untuk setiap model.
+- Tombol Unduh GLB telah dihapus dari seluruh model sesuai permintaan terbaru; kontrol viewer tetap tersedia.
 - PASS: sebelum aktivasi tidak ada permintaan GLB atau modul Three/Fiber/Drei/ModelViewer.
 - PASS: hanya satu canvas aktif; viewer dilepas di luar buffer viewport 200px; buka/tutup cepat mempertahankan kontrol yang berfungsi.
 - PASS: counter render berhenti bertambah selama 400ms setelah startup dan layout stabil.
@@ -135,7 +135,7 @@ Mode: during, pilihan sesi. Direction berasal dari brief pemilik. ENERGY 2 / RHY
 - R-23 PASS: favicon, struktur navigasi, dan konsep preview mengikuti izin eksplisit brief; foto pribadi asli diberikan pemilik.
 - R-24 PASS: seluruh nav menunjuk ID section yang tersedia dan diuji.
 - R-25 PASS: pasangan teks yang dirender lolos perhitungan kontras, termasuk varian orange di canvas terang.
-- R-26 PASS: seluruh kontrol memiliki perilaku nyata; rotasi, zoom, reset, tutup, retry, reload, dan unduhan model juga diuji.
+- R-26 PASS: seluruh kontrol memiliki perilaku nyata; rotasi, zoom, reset, tutup, retry, dan reload diuji.
 - R-27 PASS: pencarian memiliki empty state dan reset; media serta viewer memiliki loading, error, fallback, dan retry yang diuji; galeri mempertahankan empty state jika daftar dikosongkan.
 - R-28 PASS: tidak ada FAQ template.
 - R-32 PASS: Tab, Shift+Tab, Enter, Space, Escape, focus trap, dan skip link diuji; kontrol memiliki `:focus-visible`.

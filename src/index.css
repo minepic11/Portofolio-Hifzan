@@ -173,7 +173,6 @@ a svg { flex-shrink: 0; transition: transform 180ms; }
 .model-message button, .model-open, .model-controls button { min-height: 44px; min-width: 44px; background: transparent; color: var(--color-ink); border: 1px solid #85877d; padding: 0.5rem 0.85rem; font-size: 0.75rem; border-radius: 2px; }
 .model-open-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; padding-top: 1rem; }
 .model-open { background: var(--color-ink); color: var(--color-canvas); border-color: var(--color-ink); }
-.model-open-row a { display: inline-flex; align-items: center; min-height: 44px; font-size: 0.75rem; text-decoration: underline; text-underline-offset: 4px; }
 .model-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; padding-top: 1rem; }
 .model-controls button:hover:not(:disabled) { background: var(--color-canvas); }
 .model-controls button:disabled { opacity: 0.6; cursor: wait; }

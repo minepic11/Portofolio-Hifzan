@@ -92,7 +92,7 @@ Komponen `ModelViewer.jsx` menggunakan React Three Fiber dan Drei. Center memusa
 
 Canvas memakai `frameloop="demand"`, tanpa auto rotation, damping, shadow, HDR, atau postprocessing. DPR dibatasi menjadi 1 pada mobile/coarse pointer dan maksimum 1.5 pada desktop. Strategi ini mengikuti [panduan on-demand rendering React Three Fiber](https://r3f.docs.pmnd.rs/advanced/scaling-performance).
 
-Loading ditangani oleh Suspense. Error file atau WebGL ditangani oleh error boundary lokal dengan retry; kegagalan modul viewer menyediakan muat ulang halaman. Thumbnail dan tautan Unduh GLB tetap tersedia ketika viewer ditutup. Kehilangan konteks WebGL juga mengembalikan tampilan ke fallback lokal.
+Loading ditangani oleh Suspense. Error file atau WebGL ditangani oleh error boundary lokal dengan retry; kegagalan modul viewer menyediakan muat ulang halaman. Thumbnail dan tombol Lihat model 3D tersedia ketika viewer ditutup. Kehilangan konteks WebGL juga mengembalikan tampilan ke fallback lokal.
 
 GLB saat ini tidak membutuhkan decoder Draco/Meshopt dan tidak memuat resource eksternal; decoder CDN dinonaktifkan. Model atau animasi tidak diputar otomatis, termasuk ketika reduced motion aktif.
 
