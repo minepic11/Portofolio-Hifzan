@@ -1,0 +1,1290 @@
+{
+  "sizes": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "smallTargets": []
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "smallTargets": []
+    },
+    {
+      "width": 430,
+      "scrollWidth": 430,
+      "smallTargets": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "smallTargets": []
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "smallTargets": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "smallTargets": []
+    }
+  ],
+  "keyboard": [
+    "Skip link via Tab/Enter focuses main",
+    "Inventory filters via Space and Enter",
+    "Menu via Enter; Tab/Enter selects link and focuses section",
+    "Backdrop click closes menu"
+  ],
+  "contrast": [
+    {
+      "text": "Langsung ke konten",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 16,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Hifzan.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 25.6,
+      "weight": 600,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": ".",
+      "color": "rgb(180, 75, 39)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 25.6,
+      "weight": 600,
+      "ratio": 4.88,
+      "required": 3
+    },
+    {
+      "text": "Home",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "About",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Experience",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Projects",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Skills",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Contact",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Mari bicara ",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "HELLO, I'M HIFZAN",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Web Development& Digital Operations",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Building",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 112,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "useful digital",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 112,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "useful",
+      "color": "rgb(213, 94, 50)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 112,
+      "weight": 500,
+      "ratio": 3.55,
+      "required": 3
+    },
+    {
+      "text": "experiences.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 112,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "H / M / I",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "hmi.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 92.16,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": ".",
+      "color": "rgb(213, 94, 50)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 92.16,
+      "weight": 500,
+      "ratio": 3.55,
+      "required": 3
+    },
+    {
+      "text": "PERSONAL PORTFOLIO",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Hifzan MauliaIrfan",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Lihat Proyek ",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Hubungi Saya ",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Saya Hifzan, lulusan Rekayasa Perangkat Lunak yang",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 16,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "BASED IN BANDUNG, INDONESIA",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Desain yang teliti. Solusi yang praktis.",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "01 / ABOUT",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "A littleabout me.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 64.8,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Saya merupakan lulusan SMK jurusan Rekayasa Perang",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 22.4,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Melalui pengalaman praktik kerja lapangan dan proy",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 15,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Background",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Software Engineering",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Focus",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Website & Digital Operations",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Location",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Bandung, Indonesia",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "02 / EXPERIENCE",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 13.78,
+      "required": 4.5
+    },
+    {
+      "text": "Where I've contributed.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 64.8,
+      "weight": 500,
+      "ratio": 13.78,
+      "required": 3
+    },
+    {
+      "text": "Juli 2025 – Oktober 2025",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 13.78,
+      "required": 4.5
+    },
+    {
+      "text": "Praktik Kerja Lapangan",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "Content & Digital Operations Support",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 32,
+      "weight": 400,
+      "ratio": 13.78,
+      "required": 3
+    },
+    {
+      "text": "PT FSI Digital Media",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 14,
+      "weight": 400,
+      "ratio": 13.78,
+      "required": 4.5
+    },
+    {
+      "text": "Mengelola dan memperbarui konten website perusahaa",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "Mendukung operasional gudang, termasuk pengemasan ",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "Menyusun laporan stok inventori secara berkala.",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "Mengedit video promosi berdurasi pendek.",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "Membuat poster promosi digital menggunakan Canva.",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 4.87,
+      "required": 4.5
+    },
+    {
+      "text": "03 / SELECTED WORK",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "03",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Things I've built.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 64.8,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Belajar melalui praktik.Membangun untuk kebutuhan ",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Conceptual Project Preview",
+      "color": "rgb(89, 91, 84)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 10,
+      "weight": 400,
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "INTERACTIVE STUDY",
+      "color": "rgb(89, 91, 84)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "i.",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 16,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "InventoriPencatatan barang",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 14,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Pencatatan barang",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Data contoh",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Daftar barang",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 14,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Cari barang dalam preview konseptual",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 16,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Semua barang",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 10,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Barang masuk",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 10,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Barang keluar",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 10,
+      "weight": 600,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Inventori dengan data contoh, bukan data aplikasi ",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Nama barang",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Kategori",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Stok",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Arus",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Kotak kemasanBRG-003",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "BRG-003",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Kemasan",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "8",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Keluar",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Pulpen hitamBRG-004",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "BRG-004",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Alat tulis",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "36",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Keluar",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Menampilkan 2 dari 4 barang contoh",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 9,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Eksplorasi antarmuka dengan data contoh. Bukan tan",
+      "color": "rgb(89, 91, 84)",
+      "bg": "rgb(238, 237, 231)",
+      "size": 10,
+      "weight": 400,
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "PROJECT / 01",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 10,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Web Application / Training Project",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Inventory Management Website",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 40,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Website inventori sederhana yang dikembangkan untu",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 16,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Pencatatan barang masuk",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Pencatatan barang keluar",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Pengelolaan data inventori terstruktur",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Antarmuka pencarian inventori",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Pengujian fungsi dasar",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "LKP Pelatihan",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "April 2026",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "04 / CAPABILITIES",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "04",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "What I work with.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 64.8,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "01",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Website & Digital",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 20,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "WordPress",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Blogger",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Website Content Management",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Information Gathering",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Creative Tools",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 20,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Canva",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Digital Content Design",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Low Poly 3D Modeling",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Basic Animation with Prisma3D",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "03",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Digital Operations",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 20,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Microsoft Excel",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Basic Administration",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Inventory Reporting",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "04",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Professional Skills",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 20,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Attention to Detail",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Communication",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Teamwork",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Adaptability",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "Fast Learning",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "05 / EDUCATION",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "05",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "Where it started.",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 54.72,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Juni 2023 – Juni 2026",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "SMK Angkasa Husen Sastra Negara",
+      "color": "rgb(32, 33, 31)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 36,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Rekayasa Perangkat Lunak",
+      "color": "rgb(102, 103, 96)",
+      "bg": "rgb(247, 246, 242)",
+      "size": 14,
+      "weight": 400,
+      "ratio": 5.29,
+      "required": 4.5
+    },
+    {
+      "text": "06 / CONTACT",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 11,
+      "weight": 500,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "Have somethingin mind?Let's connect.",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 103.68,
+      "weight": 500,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "Let's connect.",
+      "color": "rgb(230, 107, 61)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 103.68,
+      "weight": 500,
+      "ratio": 5.03,
+      "required": 3
+    },
+    {
+      "text": "Terbuka untuk kesempatan kerja, kolaborasi, dan di",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 16,
+      "weight": 400,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "Say Hello hifzanirfan4@gmail.com",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 36,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 3
+    },
+    {
+      "text": "hifzanirfan4@gmail.com",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 12,
+      "weight": 400,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "Chat via WhatsApp +62 896-4697-5356",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 13,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    },
+    {
+      "text": "+62 896-4697-5356",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "Hifzan Maulia Irfan© 2026",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "© 2026",
+      "color": "rgb(179, 181, 172)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "Kembali ke atas ",
+      "color": "rgb(247, 246, 242)",
+      "bg": "rgb(32, 33, 31)",
+      "size": 11,
+      "weight": 400,
+      "ratio": 14.95,
+      "required": 4.5
+    }
+  ],
+  "externalActions": [
+    {
+      "action": "Email click, intercepted before OS handoff",
+      "target": "mailto:hifzanirfan4@gmail.com"
+    },
+    {
+      "action": "WhatsApp click opens new tab; destination intercepted",
+      "target": "https://wa.me/6289646975356"
+    }
+  ],
+  "fonts": {
+    "inter": true,
+    "space": true
+  },
+  "zoom": {
+    "width": 320,
+    "scrollWidth": 320,
+    "overflow": []
+  },
+  "reducedMotion": {
+    "scroll": "auto",
+    "animations": 0
+  },
+  "errors": []
+}

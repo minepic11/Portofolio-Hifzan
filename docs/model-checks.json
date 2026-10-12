@@ -1,0 +1,94 @@
+{
+  "models": [
+    {
+      "file": "bucket.glb",
+      "centered": true,
+      "fullyFramed": true,
+      "drag": true,
+      "wheelZoom": true,
+      "controls": true,
+      "keyboard": true,
+      "download": true,
+      "idleFrames": 4
+    },
+    {
+      "file": "cargo.glb",
+      "centered": true,
+      "fullyFramed": true,
+      "drag": true,
+      "wheelZoom": true,
+      "controls": true,
+      "keyboard": true,
+      "download": true,
+      "idleFrames": 3
+    },
+    {
+      "file": "hat.glb",
+      "centered": true,
+      "fullyFramed": true,
+      "drag": true,
+      "wheelZoom": true,
+      "controls": true,
+      "keyboard": true,
+      "download": true,
+      "idleFrames": 4
+    },
+    {
+      "file": "whistle.glb",
+      "centered": true,
+      "fullyFramed": true,
+      "drag": true,
+      "wheelZoom": true,
+      "controls": true,
+      "keyboard": true,
+      "download": true,
+      "idleFrames": 4
+    }
+  ],
+  "responsive": [
+    {
+      "width": 320,
+      "overflow": false,
+      "previewsLoaded": 4
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "previewsLoaded": 4
+    },
+    {
+      "width": 430,
+      "overflow": false,
+      "previewsLoaded": 4
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "previewsLoaded": 4
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "previewsLoaded": 4
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "previewsLoaded": 4
+    }
+  ],
+  "controls": [
+    "All four models: rotate left/right, zoom +/−, reset, close, keyboard arrows/+/-/R, GLB download",
+    "Escape closes and restores activation-button focus",
+    "Offscreen viewer unmounts",
+    "Rapid close/reopen preserves working controls after prior GPU cleanup"
+  ],
+  "errors": [],
+  "initial": "No GLB or 3D viewer/engine requested before activation",
+  "zoom": "320px with 200% text: active viewer and controls without overflow",
+  "touch": "One-finger rotation and two-finger pinch zoom pass; mobile DPR=1",
+  "failure": "GLB request failure handled; retry reloads and succeeds",
+  "contextLoss": "Real WebGL context loss shows localized fallback; page remains usable",
+  "chunkFailure": "Lazy viewer-module failure provides reload and recovers",
+  "unsupported": "WebGL unavailable: fallback and close control work, portfolio remains usable"
+}

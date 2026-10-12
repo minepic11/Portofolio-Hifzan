@@ -1,0 +1,164 @@
+{
+  "controls": [
+    {
+      "control": "Desktop home",
+      "hash": "#home",
+      "current": "#home",
+      "top": 81
+    },
+    {
+      "control": "Desktop about",
+      "hash": "#about",
+      "current": "#about",
+      "top": 96
+    },
+    {
+      "control": "Desktop experience",
+      "hash": "#experience",
+      "current": "#experience",
+      "top": 96
+    },
+    {
+      "control": "Desktop projects",
+      "hash": "#projects",
+      "current": "#projects",
+      "top": 96
+    },
+    {
+      "control": "Desktop skills",
+      "hash": "#skills",
+      "current": "#skills",
+      "top": 96
+    },
+    {
+      "control": "Desktop contact",
+      "hash": "#contact",
+      "current": "#contact",
+      "top": 116
+    },
+    {
+      "control": ".wordmark[href=\"#home\"]",
+      "hash": "#home"
+    },
+    {
+      "control": ".button-primary",
+      "hash": "#projects"
+    },
+    {
+      "control": ".hero-actions .text-link",
+      "hash": "#contact"
+    },
+    {
+      "control": ".hero-meta a",
+      "hash": "#about"
+    },
+    {
+      "control": ".nav-contact",
+      "hash": "#contact"
+    },
+    {
+      "control": ".site-footer a",
+      "hash": "#home"
+    },
+    {
+      "control": "Barang masuk",
+      "rows": 2
+    },
+    {
+      "control": "Barang keluar",
+      "rows": 2
+    },
+    {
+      "control": "Semua barang",
+      "rows": 4
+    },
+    {
+      "control": "Search kabel",
+      "rows": 1,
+      "text": "Kabel USB\nBRG-002\n\tElektronik\t12\t\nMasuk"
+    },
+    {
+      "control": "Search empty",
+      "empty": true
+    },
+    {
+      "control": "Reset",
+      "rows": 4
+    },
+    {
+      "control": "Menu open",
+      "open": true,
+      "focus": "Tutup",
+      "bodyOverflow": "hidden"
+    },
+    {
+      "control": "Focus trap",
+      "inside": true
+    },
+    {
+      "control": "Escape",
+      "open": false,
+      "focus": "menu-trigger",
+      "overflow": ""
+    },
+    {
+      "control": "Close button",
+      "open": false
+    },
+    {
+      "control": "Mobile home",
+      "open": false,
+      "hash": "#home",
+      "focus": "home"
+    },
+    {
+      "control": "Mobile about",
+      "open": false,
+      "hash": "#about",
+      "focus": "about"
+    },
+    {
+      "control": "Mobile experience",
+      "open": false,
+      "hash": "#experience",
+      "focus": "experience"
+    },
+    {
+      "control": "Mobile projects",
+      "open": false,
+      "hash": "#projects",
+      "focus": "projects"
+    },
+    {
+      "control": "Mobile skills",
+      "open": false,
+      "hash": "#skills",
+      "focus": "skills"
+    },
+    {
+      "control": "Mobile contact",
+      "open": false,
+      "hash": "#contact",
+      "focus": "contact"
+    },
+    {
+      "control": "Resize closes menu",
+      "open": false
+    }
+  ],
+  "links": [
+    {
+      "text": "Say Hello\nhifzanirfan4@gmail.com",
+      "href": "mailto:hifzanirfan4@gmail.com",
+      "target": "",
+      "rel": ""
+    },
+    {
+      "text": "Chat via WhatsApp\n+62 896-4697-5356",
+      "href": "https://wa.me/6289646975356",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  ],
+  "errors": []
+}
